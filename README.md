@@ -27,7 +27,7 @@ THEN he/she is able to successfully create, update, and delete data in my databa
 
 ## Review
 
-You are required to submit BOTH of the following for review:
+Here are the required links for review:
 
 * A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
 * Video one demonstrating MySQL data seed, server startup, the Routs for all products, categories and tags. Also show fetching one product, category or tag by id : https://drive.google.com/file/d/1dF8O-PUFwuQo0jm3nXoiD63D-LU2PBK6/view?usp=sharing
